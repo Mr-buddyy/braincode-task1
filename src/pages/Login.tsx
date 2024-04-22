@@ -29,7 +29,7 @@ const Login: Component = () => {
                 </div>
             </div> */}
 
-            <div class="hero min-h-screen">
+            <div class="hero h-full">
                 <img src={bg} alt="" class="w-full h-full" />
                 <div class="hero-overlay bg-opacity-60"></div>
                 <div class="px-2">
